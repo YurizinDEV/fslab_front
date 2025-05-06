@@ -1,0 +1,12 @@
+nav{
+    color: #F1F1F1;
+    background-color: #3C3C3B ;
+    align-content: center;
+    height: 82px;
+}
+
+ul{
+    padding-left: 20px;
+    display: flex;
+    gap: 16px;
+}

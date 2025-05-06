@@ -1,0 +1,146 @@
+.dash{
+    border: black solid 1px;
+    width: 31px;
+  }
+/*section projetos*/
+main .projetos {
+    padding: 40px;
+    padding-top:47px ;
+    background-color: #EEECEC;
+}
+
+main .projetos p{
+    font-size:20px;
+    font-weight: 400;
+    padding-bottom:2px;
+}
+
+main img{
+    width: 100%;
+    height: auto;
+    padding-top: 23px;
+}
+
+/*section quem somos*/
+
+main .quemSomos{
+    height: 100%;
+    padding: 40px;
+    background-color:#F3F3F3;
+}
+main .quemSomos .content{
+    padding-top: 50px;
+    display: flex;
+    gap:50px;
+}
+
+main .quemSomos p:nth-child(1){
+    font-size:20px;
+    font-weight: 400;
+    padding-bottom:2px;
+}
+
+main .quemSomos p:nth-last-child(1){
+    padding-top: 51px;
+    font-size:18px;
+    font-weight: 400;
+    padding-bottom:2px;
+}
+
+main .quemSomos img{
+width: 591px;
+height: 346px;
+}
+
+/*section faq*/
+main .faq{
+    height: 100%;
+    padding: 40px;
+    background-color:#EEECEC;
+}
+
+main .faq p{
+    font-size:20px;
+    font-weight: 400;
+    padding-bottom:2px;
+}
+main .faq ul {
+    padding-top: 36px;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+main .faq li {
+    align-content: center;
+    width: 100%;
+    background-color: #D9D9D9;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+main .faq li img {
+    cursor: pointer;
+    width: 25px;
+    height: 40px;
+}
+
+/*section equipe*/
+main .equipe{
+    height: 100%;
+    padding: 40px;
+    background-color:#F3F3F3;
+}
+
+main .equipe p:nth-child(1){
+    font-size:20px;
+    font-weight: 400;
+    padding-bottom:2px;
+}
+
+main .equipe img{
+    width: 128px;
+    height: 128px;
+}
+
+main .equipe .card {
+    justify-content: center;
+    padding-top: 50px;
+    display: flex;
+    gap: 20px;
+}
+
+main .equipe .card div {
+    background-color: #EEECEC;
+    width: 425px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+main .equipe ul{
+    gap: 5px;
+    display: flex;
+    padding: 40px;
+}
+
+main .equipe li img{
+    width: 90px;
+    height: 90px;
+
+}
+/*section fale conosco*/
+
+main .faleConosco {
+    min-height: 411px;
+    padding: 40px;
+    background-color: #EEECEC;
+}
+
+main .faleConosco p{
+    font-size:20px;
+    font-weight: 400;
+    padding-bottom:2px;
+}

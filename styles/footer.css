@@ -1,5 +1,5 @@
-footer{
-    background-color: #575756;
+footer {
+    background-color: #373736;
     width: 100%;
     min-height: 150px;
     display: flex;
@@ -7,12 +7,12 @@ footer{
     align-items: center;
 }
 
-footer img:nth-child(1){
+footer img:nth-child(1) {
     width: 277px;
     height: 72px;
 }
 
-footer img:nth-child(2){
+footer img:nth-child(2) {
     width: 153px;
     height: 74px;
 }

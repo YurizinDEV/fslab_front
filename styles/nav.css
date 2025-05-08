@@ -1,11 +1,11 @@
-nav{
-    color: #F1F1F1;
-    background-color: #3C3C3B ;
+nav {
+    color: white;
+    background-color: #373736;
     align-content: center;
     height: 82px;
 }
 
-ul{
+ul {
     padding-left: 20px;
     display: flex;
     gap: 16px;
